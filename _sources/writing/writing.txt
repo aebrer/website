@@ -1,0 +1,25 @@
+.. _writing:
+
+
+##########################
+Writing
+##########################
+
+
+Fiction
+=========
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   fiction/*
+
+Poetry
+==========
+   
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   poetry/*

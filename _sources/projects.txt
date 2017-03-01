@@ -1,0 +1,26 @@
+.. _projects:
+
+#########
+Projects
+#########
+
+
+Protein Science
+===============
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   The Ensemblator <http://github.com/atomoton/ensemblator>
+   
+   The Reassigner <http://github.com/atomoton/reassigner>
+   
+Data Analysis
+==============
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   datafest/datafest

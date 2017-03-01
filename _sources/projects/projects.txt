@@ -1,0 +1,38 @@
+.. _projects:
+
+#########
+Projects
+#########
+
+
+Protein Science
+===============
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   The Ensemblator <http://github.com/atomoton/ensemblator>
+   The Reassigner <http://github.com/atomoton/reassigner>
+   
+Data Analysis
+==============
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   datafest/datafest
+   Stock Performence Predictor <https://brereton.me/shiny/stocks/>
+   
+   
+Misc
+=====   
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   I Ching Project <https://brereton.me/shiny/iching/>
+   The Transitional I Ching <https://brereton.me/shiny/transitional-iching/>
+   Cracked Dice (a Binding of Isaac Mod) <https://github.com/atomoton/crackedDice>

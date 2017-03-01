@@ -1,0 +1,70 @@
+.. _portraits:
+
+
+##########################
+Portraits
+##########################
+
+I'm still pretty new to taking portrait photos, but I'm finding it's something I enjoy a lot. Hopefully I am able to actually get some good ones here.
+
+
+Austin Alexander
+=================
+
+..  figure:: photos/Austin.png
+    :width: 95 %
+    :align: center
+
+..  figure:: photos/austin-beach-1.jpg
+    :width: 95 %
+    :align: center
+    
+..  figure:: photos/austin-beach-2.jpg
+    :width: 95 %
+    :align: center
+    
+Andrew Popchock
+================
+
+..  figure:: photos/popchock.png
+    :width: 95 %
+    :align: center
+    
+
+Joey Porter
+===========
+
+..  figure:: photos/porter.png
+    :width: 95 %
+    :align: center
+    
+Self
+=====
+
+..  figure:: photos/self-port.png
+    :width: 95 %
+    :align: center
+    
+Dogs
+=====
+
+..  figure:: photos/rudy.jpg
+    :width: 95 %
+    :align: center
+    
+..  figure:: photos/darwin.jpg
+    :width: 95 %
+    :align: center
+    
+..  figure:: photos/mighty-biter.jpg
+    :width: 95 %
+    :align: center
+    
+    
+Robby Blizzard
+===============
+
+..  figure:: photos/robby.jpg
+    :width: 95 %
+    :align: center
+

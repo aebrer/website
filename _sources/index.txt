@@ -1,0 +1,46 @@
+
+..  toctree::
+    :maxdepth: 1
+    :hidden:
+    :glob:
+   
+    brereton-cv
+    projects/projects
+    blog/blog
+    photography/photography
+    writing/writing  
+
+###########
+brereton.me
+###########
+
+Andrew E Brereton's Personal Website
+########################################
+
+
+
+..  image:: images/self-mountain-small.png
+    :width: 40%
+    :align: left
+
+About Me
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Hello! I am a PhD student at Oregon State University, studying biophysics. My research currently involves a lot of programming and data analysis, and I also like to do data analysis for other (non-protein) topics. On this website you'll find links to my `Cirriculum Vitae <brereton-cv.html>`_, my various projects (like `The Ensemblator <http://github.com/atomoton/ensemblator>`_), and my `blog <blog/blog.html>`_.
+
+Recent Updates
+^^^^^^^^^^^^^^^
+`I made a mod item set for my favorite game, the Binding of Isaac - Cracked Dice <https://github.com/atomoton/crackedDice>`_
+
+`A review and analysis of one of the most common genetic diseases in the world: AMPD1 deficiency. <blog/2016/10/ampd1_problems/ampd1_problems.html>`_
+
+
+
+
+
+
+|clearer|
+
+.. |clearer| raw:: html 
+    
+    <div class="clearer"></div>

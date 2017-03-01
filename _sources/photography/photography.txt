@@ -1,0 +1,15 @@
+.. _photography:
+
+
+##########################
+Photography
+##########################
+
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   portraits/portraits
+   landscapes/landscapes
+   misc/misc

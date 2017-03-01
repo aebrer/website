@@ -1,0 +1,23 @@
+.. _ozymandius:
+
+I wrote this haiku in an attempt to recreate the feeling of the original.
+
+
+#################
+Ozymandius
+#################
+
+
+|    Shifting drifts of sand 
+|    Lazily etch their message
+|    In the old king's plaque. 
+|
+|    Words that used to read
+|    "Upon my works, ye mighty
+|    Gaze and feel despair!"
+|
+|    Despite my straining, 
+|    All I sense is the endless
+|    Whisper of the sands.
+|    
+
