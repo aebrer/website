@@ -170,7 +170,7 @@ $( window ).load(function() {
 
 $('[data-pano]').click(function () {
     var id = $(this).attr('data-pano');
-    var src = 'http://marinerds.com/deanna/vrstuff/vrview/index.html?image='+id;
+    var src = 'https://storage.googleapis.com/vrview/index.html?image='+id;
     var iframe = '<iframe id="pano" width="100%" height="100%" align="middle" allowfullscreen frameborder="0" src="'+src+'"></iframe>';
     $(".videoWrapper").html(iframe);
     return false;
