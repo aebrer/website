@@ -23,7 +23,7 @@ Data Analysis
    :glob:
    
    datafest/datafest
-   Stock Performence Predictor <https://brereton.me/shiny/stocks/>
+   Stock Performence Predictor <https://atomoton.shinyapps.io/stocks/>
    
    
 Misc
@@ -33,6 +33,6 @@ Misc
    :maxdepth: 1
    :glob:
    
-   I Ching Project <https://brereton.me/shiny/iching/>
-   The Transitional I Ching <https://brereton.me/shiny/transitional-iching/>
+   I Ching Project <https://atomoton.shinyapps.io/iching/>
+   The Transitional I Ching <https://atomoton.shinyapps.io/transitional-iching/>
    Cracked Dice (a Binding of Isaac Mod) <https://github.com/atomoton/crackedDice>

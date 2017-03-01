@@ -115,7 +115,7 @@ There are more interesting things we can see in the data, but I'll let you play 
 .. raw:: html
 
     <div class="videoWrapper">
-    <iframe id="ticketmaster-map" src="https://brereton.me/shiny/ticketmaster-map/" style="border: none; width: 100%; height: 100%" frameborder="0"></iframe>
+    <iframe id="ticketmaster-map" src="https://atomoton.shinyapps.io/ticketmaster-map/" style="border: none; width: 100%; height: 100%" frameborder="0"></iframe>
     </div>
 
 |clearer|
