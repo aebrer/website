@@ -13,7 +13,7 @@ First we camped at this campsite... I don't remember the name of the site unfort
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/campsites/resources/california-redwoods-panoramas/redwoods_campsite_1.jpg&is_stereo=false">Load Panorama</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/campsites/resources/california-redwoods-panoramas/redwoods_campsite_1.jpg&is_stereo=false">Load Panorama</a>
     </p>    
     
 The next day we began the hike out to our next site, at the bald hills area.
@@ -22,7 +22,7 @@ The next day we began the hike out to our next site, at the bald hills area.
 .. raw:: html
     
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/campsites/resources/california-redwoods-panoramas/redwoods_hiking_to_bald_hills.jpg&is_stereo=false">Load Panorama</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/campsites/resources/california-redwoods-panoramas/redwoods_hiking_to_bald_hills.jpg&is_stereo=false">Load Panorama</a>
     </p>
 
 This is, thus far, my favorite campsite. This site was in the Bald Hills camping area, and required a bit of a hike to get to.
@@ -30,7 +30,7 @@ This is, thus far, my favorite campsite. This site was in the Bald Hills camping
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/campsites/resources/california-redwoods-panoramas/bald_hills.jpg&is_stereo=false">Load Panorama</a>  
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/campsites/resources/california-redwoods-panoramas/bald_hills.jpg&is_stereo=false">Load Panorama</a>  
     </p>
     
 |clearer|
@@ -46,7 +46,7 @@ Viewer:
             
 |clearer|      
             
-            
+
 .. raw:: html
 
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
@@ -56,7 +56,7 @@ Viewer:
     
     $('[data-pano]').click(function () {
         var id = $(this).attr('data-pano');
-        var src = 'https://www.brereton.me/vrview/index.html?image='+id;
+        var src = 'http://marinerds.com/deanna/vrstuff/vrview/index.html?image='+id;
         var iframe = '<iframe id="pano" width="100%" height="100%" align="middle" allowfullscreen frameborder="0" src="'+src+'"></iframe>';
         $(".videoWrapper").html(iframe);
         return false;

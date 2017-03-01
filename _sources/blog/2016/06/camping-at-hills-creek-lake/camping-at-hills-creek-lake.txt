@@ -15,7 +15,7 @@ First, Nathan comes to pick us up, and we are ready to leave! He did seem confus
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano2.jpg&is_stereo=false">Nathan & Car</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano2.jpg&is_stereo=false">Nathan & Car</a>
     </p>    
 
 
@@ -25,14 +25,14 @@ These next two are of the ride out to the campsite. Austin flucuated between the
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano3.jpg&is_stereo=false">Excited</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano3.jpg&is_stereo=false">Excited</a>
     </p>    
 
 
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano4.jpg&is_stereo=false">Asleep</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano4.jpg&is_stereo=false">Asleep</a>
     </p>    
 
 
@@ -44,7 +44,7 @@ The campsite was beautiful, and it didn't take long to find a great spot for a t
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano5.jpg&is_stereo=false">Tent hunting.</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano5.jpg&is_stereo=false">Tent hunting.</a>
     </p>    
 
 
@@ -54,7 +54,7 @@ Then this is when the PBR started flowing.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano6.jpg&is_stereo=false">Joey</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano6.jpg&is_stereo=false">Joey</a>
     </p>    
 
 
@@ -64,14 +64,14 @@ Next, Nathan and Michelle came and set up their tent as awkwardly close to ours 
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano7.jpg&is_stereo=false">Tents</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano7.jpg&is_stereo=false">Tents</a>
     </p>    
 
 
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano8.jpg&is_stereo=false">Tents Done</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano8.jpg&is_stereo=false">Tents Done</a>
     </p>    
 
 
@@ -81,7 +81,7 @@ Then we could all gather around the nascent fire and relax.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano9.jpg&is_stereo=false">Relaxing</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano9.jpg&is_stereo=false">Relaxing</a>
     </p>    
 
 
@@ -91,7 +91,7 @@ The campsite was really beutiful.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano10.jpg&is_stereo=false">Rocks & Trees</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano10.jpg&is_stereo=false">Rocks & Trees</a>
     </p>    
 
 
@@ -101,7 +101,7 @@ Back at basecamp, Ben was setting up the grill to cook some hamburgers, and ever
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano11.jpg&is_stereo=false">Cooking</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano11.jpg&is_stereo=false">Cooking</a>
     </p>    
 
 
@@ -111,7 +111,7 @@ Here's the only group photo where everyone looked at the camera. It turned out a
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano12.jpg&is_stereo=false">Cheese</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano12.jpg&is_stereo=false">Cheese</a>
     </p>    
 
 
@@ -121,7 +121,7 @@ Joey finally got dressed into his **velour** camping suit.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano13.jpg&is_stereo=false">Velour</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano13.jpg&is_stereo=false">Velour</a>
     </p>    
 
 
@@ -131,7 +131,7 @@ Then we spent the rest of the night drinking and hanging out next to the fire.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano14.jpg&is_stereo=false">Fire</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano14.jpg&is_stereo=false">Fire</a>
     </p>    
 
 
@@ -141,7 +141,7 @@ Finally Austin and I hit the sack in our crowded tent.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano15.jpg&is_stereo=false">Sleep</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano15.jpg&is_stereo=false">Sleep</a>
     </p>    
 
 
@@ -151,7 +151,7 @@ Austin is much more of a morning person than me.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano16.jpg&is_stereo=false">Wake</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano16.jpg&is_stereo=false">Wake</a>
     </p>    
 
 
@@ -161,7 +161,7 @@ More natural beauty.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano17.jpg&is_stereo=false">River</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano17.jpg&is_stereo=false">River</a>
     </p>    
 
 
@@ -171,7 +171,7 @@ Breakfast burritos for breakfast!
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano18.jpg&is_stereo=false">Breakfast</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano18.jpg&is_stereo=false">Breakfast</a>
     </p>    
 
 
@@ -181,7 +181,7 @@ Everyone is up now, and we're ready to get this busy day started!
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano19.jpg&is_stereo=false">Ready</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano19.jpg&is_stereo=false">Ready</a>
     </p>    
 
 
@@ -191,7 +191,7 @@ We spent an hour or so scouting out the perfect location on the water.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano20.jpg&is_stereo=false">Scouting</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano20.jpg&is_stereo=false">Scouting</a>
     </p>    
 
 
@@ -201,7 +201,7 @@ Eventually we found it! The place to set up our tubes!
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano21.jpg&is_stereo=false">Floating</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano21.jpg&is_stereo=false">Floating</a>
     </p>    
 
 
@@ -211,7 +211,7 @@ We used a slackline and some rope across the river, to tie our floats to. That k
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano22.jpg&is_stereo=false">Floating</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano22.jpg&is_stereo=false">Floating</a>
     </p>    
 
 
@@ -221,7 +221,7 @@ It didn't always work perfectly.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano23.jpg&is_stereo=false">Floating Away</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano23.jpg&is_stereo=false">Floating Away</a>
     </p>    
 
 
@@ -231,7 +231,7 @@ The next morning. Everyone is packing up, and I am very sunburnt.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano24.jpg&is_stereo=false">Morning Two</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano24.jpg&is_stereo=false">Morning Two</a>
     </p>    
 
 
@@ -241,7 +241,7 @@ I got a picture of some weird fly/bee thing that was hovering in one spot for an
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano25.jpg&is_stereo=false">Bugs</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano25.jpg&is_stereo=false">Bugs</a>
     </p>    
 
 
@@ -251,7 +251,7 @@ Then finally, slightly nauseous, we made the trip home. We smelled bad.
 .. raw:: html
 
     <p align="center">
-    <a href="#viewer" class="btn btn-primary" data-pano="//www.brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano26.jpg&is_stereo=false">Driving</a>
+    <a href="#viewer" class="btn btn-primary" data-pano="https://brereton.me/blog/2016/06/camping-at-hills-creek-lake/resources/pano26.jpg&is_stereo=false">Driving</a>
     </p>    
 
 
@@ -276,7 +276,7 @@ Then finally, slightly nauseous, we made the trip home. We smelled bad.
     
     $('[data-pano]').click(function () {
         var id = $(this).attr('data-pano');
-        var src = 'https://www.brereton.me/vrview/index.html?image='+id;
+        var src = 'http://marinerds.com/deanna/vrstuff/vrview/index.html?image='+id;
         var iframe = '<iframe id="pano" width="100%" height="100%" align="middle" allowfullscreen frameborder="0" src="'+src+'"></iframe>';
         $(".videoWrapper").html(iframe);
         return false;
