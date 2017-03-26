@@ -93,6 +93,8 @@ Professional Experience
 Scientific Presentations
 =========================
 
+* Brereton, \A. \E. "Ensemblator v3: *actually* comparing ensembles". West Coast Protein Crystallography Workshop XXIII, Asilomar, CA. March 16 2017. **Poster.**
+
 * Brereton, \A. \E. "On The Reliability Of Peptide Non-Planarity or: How I Learned To Stop Worrying And Love The Bond". Northwest Crystallograpy Workshop. June 17 2016. **Talk.**
 
 * Brereton, \A. \E. "Seeing is believing: mapping a protein folding transition". Scholar's Insights (Three Minute Thesis Competition). Oregon State University. 2016. **Talk.** *Awarded First Place.*

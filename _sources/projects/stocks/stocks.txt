@@ -1,0 +1,24 @@
+.. _stocks:
+
+
+########################
+Stock Predictor App
+########################
+
+A simple stock performance predictor. I'll make a full write-up on performance against the S&P 500 here later.
+
+It's mostly a joke.
+
+
+.. raw:: html
+
+    <div class="videoWrapper">
+    <iframe id="ticketmaster-map" src="https://atomoton.shinyapps.io/stocks/" style="border: none; width: 100%; height: 100%" frameborder="0"></iframe>
+    </div>
+    
+    
+|clearer|
+    
+.. |clearer| raw:: html 
+    
+    <div class="clearer"></div>  
