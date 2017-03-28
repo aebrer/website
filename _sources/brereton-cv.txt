@@ -20,17 +20,6 @@ Education
     \B.\Sc. Honours in Molecular Biology and Genetics, with distinction - University of Guelph - Guelph, ON, Canada
 
 
-Awards and Honours
-===================
-
-* Scholar's Insights (Three Minute Thesis Competition) - **First Place** - Oregon State University - 2016
-* DataFest Oregon - **Winner, "Best Insight"** - 2016
-* **Lenore Bayley Graduate Fellowship** - Oregon State University - 2016
-* Gordon Research Conference: Proteins - Award for **Best Poster** - 2015
-* CGRB 2015 Spring Conference **Lightning Talk Award** - Center for Genome Research and Biocomputing, Oregon State University - 2015
-* **Entrance Scholarship**, University of Guelph - 2009
-* **Ontario Scholar**, Parry Sound High School - 2005-2009
-
 
 Peer-reviewed Publications
 ===========================
@@ -54,6 +43,18 @@ Developed Software
     Python program capable of assigning secondary structure to a pdb formatted protein structure. Assigns by using a combination of results from machine learning assignments of secondary structure based on local conformation, and a calculation of a virtual geometry. Capable of a very large range of intelligent secondary structure assignments.
 
 
+Awards and Honours
+===================
+
+* Scholar's Insights (Three Minute Thesis Competition) - **First Place** - Oregon State University - 2016
+* DataFest Oregon - **Winner, "Best Insight"** - 2016
+* **Lenore Bayley Graduate Fellowship** - Oregon State University - 2016
+* Gordon Research Conference: Proteins - Award for **Best Poster** - 2015
+* CGRB 2015 Spring Conference **Lightning Talk Award** - Center for Genome Research and Biocomputing, Oregon State University - 2015
+* **Entrance Scholarship**, University of Guelph - 2009
+* **Ontario Scholar**, Parry Sound High School - 2005-2009
+
+
 Professional Experience
 =========================
 
@@ -62,6 +63,8 @@ Professional Experience
     
     Advisor: P. Andrew Karplus
         
+        * Development of new metrics and software tools to compare and analyze large sets of protein structures.
+        * Responsible for running and maintaining the Protein Geometry Database.
         * Conducted novel research on protein geometry, evolution, and structure.
         * Conducted novel research on the structure-function relationship of tyrosine nitration using calmodulin as a model system.
         * Conducted novel research on the evolution and history of the GULOP pseudogene.
