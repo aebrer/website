@@ -31,9 +31,13 @@ Hello! I am a PhD student at Oregon State University, studying biophysics. My re
 
 Recent Updates
 ^^^^^^^^^^^^^^^
+
+`I finally updated my I Ching app for Android. It doesn't suck now! <https://play.google.com/store/apps/details?id=me.brereton.iching2>`_
+
+
 `A new section of the website, Storytime, where I write collaborative stories from my past. The first one is about the time that I broke my arm. <https://brereton.me/storytime/stories/the_time_I_broke_my_arm/the_time_I_broke_my_arm.html>`_
 
-`A review and analysis of one of the most common genetic diseases in the world: AMPD1 deficiency. <blog/2016/10/ampd1_problems/ampd1_problems.html>`_
+
 
 
 
