@@ -4,10 +4,38 @@
 Curriculum Vitae
 ###################
 
-**Andrew E. Brereton**
-
 541-236-5008, `Andrew@Brereton.me <andrew@brereton.me>`_
                                                                                                        
+
+Andrew E. Brereton
+=====================
+
+*I'm a formally trained structural biologist, with a strong emphasis on tool development and data science techniques. The focus of my research thus far has been to better understand and describe the details of protein geometry and structural dynamics. To that end I've developed software called The Ensemblator (github.com/atomoton/ensemblator), a Python application that lets a user build, compare, analyze, and/or automatically cluster large sets of protein structures. From my experience working with protein structural data, I've gained a familiarity and appreciation for working with large, sparse, noisy datasets, and a familiarity with techniques for classifying and analyzing such sparse biological data. Data Science and especially dimensionality reduction techniques allow for the visualization of patterns that are too complex to normally observe, and a long-term interest I have is to apply these tools toward the understanding of intelligence and the brain, both in its disorders and it's healthy functioning; I would especially love to work toward the sci-fi dream of truly connecting humans to machines using brain-computer interfaces, and believe that this problem will require a holistic understanding of the brain, and a huge collaborative effort, which includes the application of data science techniques to complex neurological data.*
+
+
+
+Peer-reviewed Publications
+===========================
+
+*  Nelson KJ, Perkins A, Van Swearingen AED, Hartman A, **Brereton AE**, Parsonage D, Salsbury FR, Karplus PA, and Poole LB. **Experimentally Dissecting the Origins of Peroxiredoxin Catalysis** *Antioxid Redox Signal* (2016) `DOI: 10.1089/ars.2016.6922 <http://online.liebertpub.com/doi/abs/10.1089/ars.2016.6922?journalCode=ars>`_ |PRXBadge|
+
+*  Sharaf NG, **Brereton AE**, Byeon IL, Karplus PA, Gronenborn AM. **NMR structure of the HIV-1 reverse transcriptase thumb subdomain**. *J Biomol NMR* (2016). DOI: `10.1007/s10858-016-0077-2 <https://brereton.me/_publications/NMRStructureOfTheHIV-1ReverseTranscriptaseThumbSubdomain,JBiomolNMR.pdf>`_ |HIVBadge|
+
+*  **Brereton AE**, Karplus PA, **"On the reliability of peptide non-planarity seen in ultra-high resolution crystal structures."** *Protein Sci*. (2016). DOI: `10.1002/pro.2883 <https://brereton.me/_publications/Brereton-planarity-ProtSci-2016.pdf>`_ |planarityBadge|
+
+*  **Brereton AE**, Karplus PA, **"Native proteins trap high-energy transit conformations."** *Sci Adv.* 1, e1501188 (2015). DOI: `10.1126/sciadv.1501188 <http://advances.sciencemag.org/content/1/9/e1501188>`_ |mountainPassBadge|
+
+
+Software Development Projects
+=================================
+
+* `The Ensemblator <http://www.github.com/atomoton/ensemblator>`_ 
+    Python program to generate and analyze ensembles of protein structures. Uses a novel "core" based method for determining optimal structural overlays. Groups for comparison can be manually defined, or automatically detected using clustering. Capable of comparing ensembles of non-identical proteins, using sequence alignment before structural overlay.
+
+* `The Reassigner <http://www.github.com/atomoton/reassigner>`_
+    Python program capable of assigning secondary structure to a pdb formatted protein structure. Assigns by using a combination of results from machine learning assignments of secondary structure based on local conformation, and a calculation of a virtual geometry. Capable of a very large range of intelligent secondary structure assignments.
+
+
 Education 
 ==========
 
@@ -18,30 +46,7 @@ Education
 
 2009 - 2013
     \B.\Sc. Honours in Molecular Biology and Genetics, with distinction - University of Guelph - Guelph, ON, Canada
-
-
-
-Peer-reviewed Publications
-===========================
-
-#. Kimberly J. Nelson, Arden Perkins, Amanda E.D. Van Swearingen, Steven Hartman, **Andrew E. Brereton**, Derek Parsonage, Freddie R. Salsbury, Jr., P. Andrew Karplus, and Leslie B. Poole. **Experimentally Dissecting the Origins of Peroxiredoxin Catalysis** *Antioxidants & Redox Signaling* (2016) `DOI: 10.1089/ars.2016.6922 <http://online.liebertpub.com/doi/abs/10.1089/ars.2016.6922?journalCode=ars>`_ |PRXBadge|
-
-#. Naima G. Sharaf, **Andrew E. Brereton**, In-Ja L. Byeon, P. Andrew Karplus, Angela M. Gronenborn. **NMR structure of the HIV-1 reverse transcriptase thumb subdomain**. *J Biomol NMR* (2016). DOI: `10.1007/s10858-016-0077-2 <https://brereton.me/_publications/NMRStructureOfTheHIV-1ReverseTranscriptaseThumbSubdomain,JBiomolNMR.pdf>`_ |HIVBadge|
-
-#. **\A. \E. Brereton**, P. A. Karplus, **"On the reliability of peptide non-planarity seen in ultra-high resolution crystal structures."** *Protein Science*. (2016). DOI: `10.1002/pro.2883 <https://brereton.me/_publications/Brereton-planarity-ProtSci-2016.pdf>`_ |planarityBadge|
-
-#. **\A. \E. Brereton**, P. A. Karplus, **"Native proteins trap high-energy transit conformations."** *Science Advances.* 1, e1501188 (2015). DOI: `10.1126/sciadv.1501188 <http://advances.sciencemag.org/content/1/9/e1501188>`_ |mountainPassBadge|
-
-
-Developed Software
-=====================
-
-* `The Ensemblator <http://www.github.com/atomoton/ensemblator>`_ 
-    Python program to generate and analyze ensembles of protein structures. Uses a novel "core" based method for determining optimal structural overlays. Groups for comparison can be manually defined, or automatically detected using clustering. Capable of comparing ensembles of non-identical proteins, using sequence alignment before structural overlay.
-
-* `The Reassigner <http://www.github.com/atomoton/reassigner>`_
-    Python program capable of assigning secondary structure to a pdb formatted protein structure. Assigns by using a combination of results from machine learning assignments of secondary structure based on local conformation, and a calculation of a virtual geometry. Capable of a very large range of intelligent secondary structure assignments.
-
+    
 
 Awards and Honours
 ===================
@@ -50,7 +55,7 @@ Awards and Honours
 * DataFest Oregon - **Winner, "Best Insight"** - 2016
 * **Lenore Bayley Graduate Fellowship** - Oregon State University - 2016
 * Gordon Research Conference: Proteins - Award for **Best Poster** - 2015
-* CGRB 2015 Spring Conference **Lightning Talk Award** - Center for Genome Research and Biocomputing, Oregon State University - 2015
+* CGRB 2015 Spring Conference **Lightning Talk Award** - CGRB, Oregon State University - 2015
 * **Entrance Scholarship**, University of Guelph - 2009
 * **Ontario Scholar**, Parry Sound High School - 2005-2009
 
@@ -75,12 +80,12 @@ Professional Experience
 
 
 2013 - 2014
-    Teaching Assistant - Oregon State University, Corvallis, OR
+    Graduate Teaching Assistant - Oregon State University, Corvallis, OR
 
-        * Cell & Molecular Biology  
+        * Cell & Molecular Biology - F'13, S'14
             + Developed lesson plans and problem sets to complement professor's lectures for groups of approx. 30 students in classroom setting.  
             + Provided additional individual instruction for students needing assistance.
-        * Biochemistry Lab
+        * Biochemistry Lab - W'14
             + Supervised students and guided experiments during lab sessions.
 
 
@@ -96,19 +101,20 @@ Professional Experience
 Scientific Presentations
 =========================
 
-* Brereton, \A. \E. "Ensemblator v3: *actually* comparing ensembles". West Coast Protein Crystallography Workshop XXIII, Asilomar, CA. March 16 2017. **Poster.**
+* Brereton, \A. \E. "Ensemblator v3: *actually* comparing ensembles". West Coast Protein Crystallography Workshop XXIII, Asilomar, CA. March 19-22 2017. **Poster.**
 
-* Brereton, \A. \E. "On The Reliability Of Peptide Non-Planarity or: How I Learned To Stop Worrying And Love The Bond". Northwest Crystallograpy Workshop. June 17 2016. **Talk.**
+* Brereton, \A. \E. "On The Reliability Of Peptide Non-Planarity or: How I Learned To Stop Worrying And Love The Bond". Northwest Crystallograpy Workshop. Pullman, WA. June 17-19 2016. **Talk.**
 
 * Brereton, \A. \E. "Seeing is believing: mapping a protein folding transition". Scholar's Insights (Three Minute Thesis Competition). Oregon State University. 2016. **Talk.** *Awarded First Place.*
 
-* Brereton, \A. \E. "Ramachandran's Mountain Pass: Capturing a High-energy Transition State". Volcano Conference. 2016. **Talk.**
+* Brereton, \A. \E. "Ramachandran's Mountain Pass: Capturing a High-energy Transition State". Volcano Conference. Seattle WA. March 3-5 2016. **Talk.**
 
 * Brereton, \A. \E. "Ramachandran's mountain pass: exploring impossibilities". GRC: Proteins. June 16 2015. **Poster.** *Selected for best poster.*
 
-* Brereton, \A. \E. "Ramachandran's mountain pass: exploring impossibilities". CGRB 2015 Spring Conference, Oregon State University. April 6 2015. **Talk.** *Selected for best presentation.*
+* Brereton, \A. \E. "Ramachandran's mountain pass: exploring impossibilities". CGRB 2015 Spring Conference, Oregon State University. April 6-7 2015. **Talk.**  *Selected for best presentation.*
 
-* Brereton, \A. \E. "Ramachandran's mountain pass: exploring impossibilities". West Coast Protein Crystallography Workshop XXII, Monterey, CA. March 16 2015. **Talk.**
+* Brereton, \A. \E. "Ramachandran's mountain pass: exploring impossibilities". West Coast Protein Crystallography Workshop XXII, Monterey, CA. March 16-19 2015. **Talk.**
+
 
 
 Skills and Techniques (not otherwise listed)
@@ -116,20 +122,24 @@ Skills and Techniques (not otherwise listed)
 
 
 * Programming
-    R, Shiny, ggplot2, Python 2 & 3, Tkinter (for GUI development), BASH, TCSH, markdown, reSTructuredtext, HTML, CSS    
-* Data Science
+    + R, Shiny, ggplot2, Python 2 & 3, Tkinter (for GUI development), BASH, TCSH, markdown, reSTructuredtext, HTML, CSS
 * GIMP photo-editing software.
 * Very familiar with Windows, Mac, and Linux systems, experience running a web server, extremely comfortable with CLI.
 * Familiarity with various bioinformatic resources, including MUSCLE, MAFFT, Clustal, genome browsers, SCOP, Uniprot, Pali Database, Dali web server, and others.
 * Experience writing large (>3000 line) software for protein analysis, experience working with groups and collaborators on large computational projects.
 * Protein purification from large tissue samples, use of expanded genetic code for unnatural amino acid incorporation in proteins.
-* Organizational Committee member for the 2014 North West Crystallography Workshop.
+
+
+Services
+========
+
+* Organizational Committee member for the 2014 Northwest Crystallography Workshop.
 * Member of the Strategic Planning Committee for the Oregon State Department of Biochemistry & Biophysics.
 * Tsoo King Memorial Lecture Series 2016 Lead Organizer
 
 
 
-Structures Submitted to the RSCB Protein Data Bank
+RSCB Protein Data Bank Entries
 ===================================================
 
 `4XRA <http://www.rcsb.org/pdb/explore.do?structureId=4XRA>`_ | 1.75 Å | *Salmonella typhimurium* AhpC T43S mutant (Perkins et. al, To Be Published)
