@@ -142,7 +142,7 @@ Services
 RSCB Protein Data Bank Entries
 ===================================================
 
-`4XRA <http://www.rcsb.org/pdb/explore.do?structureId=4XRA>`_ | 1.75 Å | *Salmonella typhimurium* AhpC T43S mutant (Perkins et. al, To Be Published)
+`4XRA <http://www.rcsb.org/pdb/explore.do?structureId=4XRA>`_ | 1.75 Å | *Salmonella typhimurium* AhpC T43S mutant (Perkins et. al, *Antioxid Redox Signal* 2016)
 
 Miscellaneous
 ==============
