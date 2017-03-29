@@ -29,13 +29,13 @@ Peer-reviewed Publications
 Software Development Projects
 =================================
 
-* `The Ensemblator | *Python* <http://www.github.com/atomoton/ensemblator>`_ 
+* `The Ensemblator <http://www.github.com/atomoton/ensemblator>`_ 
     Python program to generate and analyze ensembles of protein structures. Uses a novel "core" based method for determining optimal structural overlays. Groups for comparison can be manually defined, or automatically detected using clustering. Capable of comparing ensembles of non-identical proteins, using sequence alignment before structural overlay.
 
-* `The Reassigner | *Python* <http://www.github.com/atomoton/reassigner>`_
+* `The Reassigner <http://www.github.com/atomoton/reassigner>`_
     Python program capable of assigning secondary structure to a pdb formatted protein structure. Assigns by using a combination of results from machine learning assignments of secondary structure based on local conformation, and a calculation of a virtual geometry. Capable of a very large range of intelligent secondary structure assignments.
 
-* `Uncomplicated I Ching | *Java* <https://play.google.com/store/apps/details?id=me.brereton.iching2>`_
+* `Uncomplicated I Ching <https://play.google.com/store/apps/details?id=me.brereton.iching2>`_
     A minimal android app to enable consulting the I Ching Oracle.
 
 
