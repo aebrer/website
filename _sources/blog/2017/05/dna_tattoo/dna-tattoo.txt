@@ -5,7 +5,7 @@ Designing a Tattoo Using Neural Networks
 #################################################################
 
 .. figure:: resources/tattoo_trimmed_nobg.png
-    :width: 25 %
+    :width: 30 %
     :align: center
 
 
@@ -21,13 +21,13 @@ To decide the colours I would use, I took advice from one of my favourite websit
 
 
 .. figure:: resources/color3.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 An example of another type of visualization that might be valid as well is called a surface view, which shows the water-accessible surface of the molecule.
 
 .. figure:: resources/surface.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 
@@ -42,19 +42,19 @@ What I had now was a passable, interesting image of DNA. What I wanted was somet
 To start, I messed around with a style called "low-poly", where you essentially try to recreate the image as it exists, but using only simply coloured triangles.
 
 .. figure:: resources/lowpoly0.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 I made a few different versions of this.
 
 .. figure:: resources/lowpoly3.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 Then, in order to not lose the original meaning altogether, I blended these low-poly images with the original, while strengthening the black lines of the spheres.
 
 .. figure:: resources/blend1.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 Now I had the base image I liked, and I could begin to style it using neural networks. To do this, I used the `chainer implementation of the neural style algorithm <https://github.com/yusuketomoto/chainer-fast-neuralstyle>`_.
@@ -62,15 +62,15 @@ Now I had the base image I liked, and I could begin to style it using neural net
 I began to experiment with different artistic styles.
 
 .. figure:: resources/edat.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 .. figure:: resources/candy.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 .. figure:: resources/kand.png
-    :width: 25 %
+    :width: 45 %
     :align: center
 
 Finally, I worked to blend these together and layer them in a way that I was happy with, while trimming the edges and cleaning up a few artifacts:
