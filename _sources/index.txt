@@ -35,7 +35,6 @@ I have a new paper in press!
 
 **Brereton AE**, Karplus PA, **"Ensemblator v3: Robust Atom-level Comparative Analyses and Classification of Protein Structure Ensembles"** *Protein Sci*. (2017). DOI: `10.1002/pro.3249 <http://onlinelibrary.wiley.com/doi/10.1002/pro.3249/full>`_
 
-`A new tattoo and how I designed it, using neural networks. <https://brereton.me/blog/2017/05/dna_tattoo/dna-tattoo.html>`_
 
 
 
