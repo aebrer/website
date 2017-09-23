@@ -4,7 +4,7 @@
 Curriculum Vitae
 ###################
 
-541-236-5008, `Andrew@Brereton.me <andrew@brereton.me>`_
+647-705-0690, `Andrew@Brereton.me <andrew@brereton.me>`_
                                                                                                        
 
 Andrew E. Brereton
@@ -44,7 +44,7 @@ Software Development Projects
 Education 
 ==========
 
-2013 - Present
+2013 - 2017
     PhD Biochemistry & Biophysics - Oregon State University - Corvallis, OR, USA
         
         Special Topics Classes: Macromolecular X-ray Crystallography, Biocomputing: Molecular simulation, Introduction to UNIX, Command-line data analysis, Recursion and Dynamic Programming, Topics in Data Visualization, Data Programming in R, Genome Expression & Regulation, Protein Evolution, Scientific Skills and Ethics, Algorithms for Computational Molecular Biology
@@ -68,7 +68,16 @@ Awards and Honours
 Professional Experience
 =========================
 
-2014 - Present
+2017 - Present
+    Bioinformatics Developer - Cyclica Inc., Toronto, ON
+    
+        * Contribute new functionalities to the pipeline
+        * Maintain and document application changes
+        * Scientific research and development 
+        * Data science and visualization
+
+
+2014 - 2017
     Graduate Research Assistant - Oregon State University, Corvallis, OR 
     
     Advisor: P. Andrew Karplus

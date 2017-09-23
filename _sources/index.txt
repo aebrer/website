@@ -6,7 +6,6 @@
    
     brereton-cv
     projects/projects
-    storytime/storytime
     blog/blog
     photography/photography
     writing/writing  
@@ -14,10 +13,6 @@
 ###########
 brereton.me
 ###########
-
-Andrew E Brereton's Personal Website
-########################################
-
 
 
 ..  image:: images/self-mountain-small.png
@@ -27,7 +22,7 @@ Andrew E Brereton's Personal Website
 About Me
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Hello! I am a PhD student at Oregon State University, studying biophysics. My research currently involves a lot of programming and data analysis, and I also like to do data analysis for other (non-protein) topics. On this website you'll find links to my `Cirriculum Vitae <brereton-cv.html>`_, my various projects (like `The Ensemblator <http://github.com/atomoton/ensemblator>`_), and my `blog <blog/blog.html>`_.
+Hello! I am a data scientist and developer currently working at Cyclica, Inc. in Toronto, Ontario. On this website you'll find links to my `Cirriculum Vitae <brereton-cv.html>`_, my various projects (like `The Ensemblator <http://github.com/atomoton/ensemblator>`_), and my `blog <blog/blog.html>`_.
 
 Recent Updates
 ^^^^^^^^^^^^^^^

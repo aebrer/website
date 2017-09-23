@@ -23,3 +23,12 @@ Poetry
    :glob:
    
    poetry/*
+   
+Stories
+=========
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+   storytime/*/*
