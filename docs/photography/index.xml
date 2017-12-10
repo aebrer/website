@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on Andrew E Brereton</title>
+    <link>https://brereton.me/photography/</link>
+    <description>Recent content in Photography on Andrew E Brereton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://brereton.me/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

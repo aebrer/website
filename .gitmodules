@@ -10,3 +10,6 @@
 [submodule "phugo"]
 	path = phugo
 	url = https://github.com/atomoton/phugo
+[submodule "themes/phugo"]
+	path = themes/phugo
+	url = https://github.com/atomoton/phugo
