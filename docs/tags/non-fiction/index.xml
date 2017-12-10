@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-fiction on brereton.me</title>
+    <link>https://brereton.me/tags/non-fiction/</link>
+    <description>Recent content in Non-fiction on brereton.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://brereton.me/tags/non-fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Time I Broke My Arm</title>
+      <link>https://brereton.me/writing/the_time_i_broke_my_arm/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brereton.me/writing/the_time_i_broke_my_arm/</guid>
+      <description>Involved Parties:  Andrew Brereton Zach Ruggles Delia Brereton (my Mom)  The Story I used to live in Canada, until recently. I lived near a small town called Parry Sound; it was an eleven-minute drive into town from my house, and I lived at the top of a small hill overlooking a lake. In the summer it was warm and nice, and in the winter it was cold and entirely covered in snow.</description>
+    </item>
+    
+  </channel>
+</rss>
