@@ -5,6 +5,8 @@ copyright = ""
 
 theme = "minimo"
 
+publishDir = "docs"
+
 disqusShortname = ""
 googleAnalytics = "UA-74739470-1"
 
