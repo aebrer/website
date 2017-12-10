@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brereton.me</title>
+    <link>https://brereton.me/</link>
+    <description>Recent content on brereton.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Dec 2017 18:29:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://brereton.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://brereton.me/brereton-cv/</link>
+      <pubDate>Sat, 09 Dec 2017 18:29:00 -0500</pubDate>
+      
+      <guid>https://brereton.me/brereton-cv/</guid>
+      <description>Andrew E. Brereton A formally trained structural biologist with an emphasis in data science and visualization, machine learning, and software development. Research interests are varied but include neurobiology, human/animal intelligence, sleep biology, aging, perception, and protein structure/design problems.
+Peer-reviewed Publications Brereton AE, Karplus PA, &amp;ldquo;Ensemblator v3: Robust Atom-level Comparative Analyses and Classification of Protein Structure Ensembles.&amp;rdquo; Protein Sci. (2017). DOI: 10.1002/pro.3249
+Nelson KJ, Perkins A, Van Swearingen AED, Hartman A, Brereton AE, Parsonage D, Salsbury FR, Karplus PA, and Poole LB.</description>
+    </item>
+    
+    <item>
+      <title>Making Real Poutine</title>
+      <link>https://brereton.me/blog/making-real-poutine/</link>
+      <pubDate>Tue, 01 Dec 2015 18:29:00 -0500</pubDate>
+      
+      <guid>https://brereton.me/blog/making-real-poutine/</guid>
+      <description>A month or two ago I decided I had had enough of the sub-par American so-called poutine I have received here. I miss the cheesy, gravy goodness of my homeland! So I gathered my favorite Americans, and showed them the light (heavy).
+The Problems I know I&amp;rsquo;m being a snob, but please forgive me. There are three main problems (in my opinion) with how Americans tend to make poutine:</description>
+    </item>
+    
+  </channel>
+</rss>
