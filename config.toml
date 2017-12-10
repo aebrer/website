@@ -78,27 +78,35 @@ page = "/:slug/"
 
 [[menu.main]]
 name = "home"
-weight = -10
+weight = -100
 identifier = "home"
 url = "/"
 
 [[menu.main]]
 name = "blog"
-weight = -9
+weight = -90
 identifier = "blog"
 url = "/blog"
 
 [[menu.main]]
+name = "tags"
+weight = -85
+identifier = "tags"
+url = "/tags"
+
+[[menu.main]]
 name = "photography"
-weight = -8
+weight = -80
 identifier = "photography"
 url = "/photography"
 
 [[menu.main]]
 name = "writing"
-weight = -7
+weight = -70
 identifier = "writing"
 url = "/writing"
+
+
 
 [languages]
 # edit this block for your own language
