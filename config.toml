@@ -1,0 +1,106 @@
+baseURL = "https://brereton.me/"
+title = "brereton.me"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = "UA-74739470-1"
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+description = ""
+title404 = "Nothing's here!"
+
+[params.assets]
+favicon = "favicon.ico"
+customCSS = ["css/theme_overrides.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Andrew E. Brereton"
+startYear = "2017"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+recentPostsLength = 4
+hideSocialMenu = false
+showReadingTime = true
+noTermCloudShuffle = false
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+email = "andrew@brereton.me"
+facebook = "atomoton"
+github = "atomoton"
+instagram = "atomoton"
+linkedin = "andrew-brereton-935ba1149"
+mastodon = "16600"
+gitlab = "brereton"
+
+[params.social.config]
+platforms = ["github", "gitlab","facebook","mastodon","instagram","email","linkedin"]
+
+[[menu.social]]
+name = "gitlab"
+url = "https://gitlab.com/brereton"
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+
+[[menu.main]]
+name = "home"
+weight = -10
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "blog"
+weight = -9
+identifier = "blog"
+url = "/blog"
+
+[[menu.main]]
+name = "photography"
+weight = -8
+identifier = "photography"
+url = "/photography"
+
+[[menu.main]]
+name = "writing"
+weight = -7
+identifier = "writing"
+url = "/writing"
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
