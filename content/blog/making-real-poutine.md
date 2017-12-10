@@ -1,7 +1,8 @@
 ---
 title: "Making Real Poutine"
 date: 2015-12-01T18:29:00-05:00
-draft: false
+tags: ["cooking"]
+menu: "blog"
 ---
 
 A month or two ago I decided I had had enough of the sub-par American

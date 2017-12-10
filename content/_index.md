@@ -1,10 +1,8 @@
-About Me
---------
-
+![image](images/self-mountain-small.png)
+#### About Me
 Hello! I am a data scientist and developer currently working at Cyclica,
 Inc. in Toronto, Ontario. On this website you'll find links to my
-[Cirriculum Vitae](brereton-cv.html), my various projects (like [The
-Ensemblator](http://github.com/atomoton/ensemblator)), and my
-[blog](blog/blog.html).
+[Cirriculum Vitae](/brereton-cv), my various projects (like [The
+Ensemblator](https://github.com/atomoton/ensemblator)), and my
+[blog](/blog).
 
-![image](images/self-mountain-small.png)

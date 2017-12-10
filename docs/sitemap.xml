@@ -8,6 +8,61 @@
   </url>
   
   <url>
+    <loc>https://brereton.me/blog/tattoo/</loc>
+    <lastmod>2017-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/the_time_i_broke_my_arm/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/blog/mutants/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/winter/</loc>
+    <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/evening-sky/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/ozymandius/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/rainfall/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/blog/datafest/</loc>
+    <lastmod>2016-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/the-importance-of-family/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/blog/ukulele/</loc>
+    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/blog/brewing-my-first-beer/</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://brereton.me/blog/making-real-poutine/</loc>
     <lastmod>2015-12-01T18:29:00-05:00</lastmod>
   </url>
@@ -19,7 +74,7 @@
   
   <url>
     <loc>https://brereton.me/blog/</loc>
-    <lastmod>2015-12-01T18:29:00-05:00</lastmod>
+    <lastmod>2017-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,7 +84,98 @@
   </url>
   
   <url>
+    <loc>https://brereton.me/tags/cooking/</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/craft/</loc>
+    <lastmod>2017-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/data-science/</loc>
+    <lastmod>2016-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/fiction/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/haiku/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/non-fiction/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/peom/</loc>
+    <lastmod>2016-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/poem/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/science/</loc>
+    <lastmod>2017-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/scifi/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/short-story/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/speculation/</loc>
+    <lastmod>2016-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/story/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://brereton.me/tags/</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/tags/tattoo/</loc>
+    <lastmod>2017-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brereton.me/writing/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

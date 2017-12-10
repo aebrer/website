@@ -1,7 +1,6 @@
 ---
 title: "Curriculum Vitae"
 date: 2017-12-09T18:29:00-05:00
-draft: false
 menu: ["main", "CV"]
 ---
 
@@ -42,7 +41,7 @@ non-planarity seen in ultra-high resolution crystal structures."**
 transit conformations."** *Sci Adv.* 1, e1501188 (2015). DOI:
 [10.1126/sciadv.1501188](http://advances.sciencemag.org/content/1/9/e1501188)  
 
-Software Development Projects
+Open-Source Software Development Projects
 -----------------------------
 
 #### [The Ensemblator](http://www.github.com/atomoton/ensemblator)

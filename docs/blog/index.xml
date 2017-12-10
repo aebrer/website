@@ -5,10 +5,58 @@
     <link>https://brereton.me/blog/</link>
     <description>Recent content in Blogs on brereton.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2015 18:29:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://brereton.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Designing a Tattoo Using Neural Networks</title>
+      <link>https://brereton.me/blog/tattoo/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brereton.me/blog/tattoo/</guid>
+      <description>When I design a tattoo I like it to mean something personally to me. I also like for it to be unique, and to reflect my personality. With that in mind, I hoped to create a tattoo that would show some of the things I had learned here at OSU, while I was getting my PhD. I think I&amp;rsquo;ve been able to pull that off, and I&amp;rsquo;ll try to detail a little about how I made the tattoo here in this blog post.</description>
+    </item>
+    
+    <item>
+      <title>Mutants Among Us: the unexpected effects of a mutation in AMPD1</title>
+      <link>https://brereton.me/blog/mutants/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brereton.me/blog/mutants/</guid>
+      <description>Introduction Recently I&amp;rsquo;ve become interested in the effects of a particular mutation. The mutation is a single nucleotide polymorphism (SNP) in a protein called Adenosine Monophosphate Deaminase 1 (AMPD1). In this case, the nucleotide base at this position was supposed to be a &amp;ldquo;C&amp;rdquo; (cytosine), but it&amp;rsquo;s been changed to a &amp;ldquo;T&amp;rdquo; (thymine). This single letter mutation has been called &amp;ldquo;the most prevalent genetic disease mutation&amp;rdquo;, at least in Caucasians1.</description>
+    </item>
+    
+    <item>
+      <title>Datafest Oregon 2016</title>
+      <link>https://brereton.me/blog/datafest/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brereton.me/blog/datafest/</guid>
+      <description>Datafest Oregon 2016 This year, I competed in Datafest. Datafest is a data analysis competition for students, with a corporate sponsor who provides the data. For this competition Ticketmaster provided the data, and Datafest itself was hosted by Dr. Charlotte Wickham, an assistant professor in the Statistics Department at OSU.
+Our team was called &amp;ldquo;Pretty Terrestrial&amp;rdquo;, and consisted of myself, Michelle Wiley, Steven Freidman, and Camden Lopez. It was a lot of fun working together on this project, especially when it got down to crunch time in the final hour.</description>
+    </item>
+    
+    <item>
+      <title>Making a Travel Ukulele</title>
+      <link>https://brereton.me/blog/ukulele/</link>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brereton.me/blog/ukulele/</guid>
+      <description>Total cost for parts and tools: $64 Time: 2 weeks Emotional damage: minimal  The Motivation So I really like the look to the Risa Solid Uke. However, it&amp;rsquo;s a little too rich for my blood at this point. One day I&amp;rsquo;ll buy one. In the meantime, I thought it might be cool to try to build my own poor man&amp;rsquo;s version (which ended up costing more than I expected).</description>
+    </item>
+    
+    <item>
+      <title>Brewing My First Beer</title>
+      <link>https://brereton.me/blog/brewing-my-first-beer/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brereton.me/blog/brewing-my-first-beer/</guid>
+      <description>I got into homebrewing. I like beer so why wouldn&amp;rsquo;t I enjoy making beer?! For this first beer I ended up making an ESB I call the Fug Vale ESB. It was delicious, I only have two bottles left&amp;hellip; I&amp;rsquo;m considering sending one to my brother, but then again, I could just drink it. Sorry Calvin!
+Here are a few pictures of that whole process:
+Getting Started Some starting materials: yeast and hops.</description>
+    </item>
     
     <item>
       <title>Making Real Poutine</title>
