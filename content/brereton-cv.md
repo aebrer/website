@@ -2,6 +2,7 @@
 title: "Curriculum Vitae"
 date: 2017-12-09T18:29:00-05:00
 menu: ["main", "CV"]
+toc: True
 ---
 
 Andrew E. Brereton
@@ -96,7 +97,6 @@ DataFest Oregon, **Winner, "Best Insight"**, Oregon State University, 2016
 Gordon Research Conference: Proteins **Best Poster**, Holderness School, 2015  
 CGRB 2015 Spring Conference **Lightning Talk Award**, Oregon State University, 2015  
 **Entrance Scholarship**, University of Guelph, 2009  
-**Ontario Scholar**, Parry Sound High School, 2005-2009  
 
 Professional Experience
 -----------------------
@@ -105,10 +105,12 @@ Professional Experience
 Cyclica Inc., Toronto, ON  
 2017 - Present  
 
--   Contribute new functionalities to the pipeline
+-   Method development
+-   Package deployment using Pip
 -   Maintain and document application changes
--   Scientific research and development
+-   Scientific research and feasibility studies
 -   Data science and visualization
+-   AI training, testing, and development
 
 
 #### Graduate Research Assistant
@@ -183,18 +185,16 @@ Programming
 
 - R, Shiny, ggplot2, Python 2 & 3, Jupyter, rdkit, 
     Tkinter, BASH, markdown, HTML, CSS
-    
-GIMP photo-editing software.  
 
-Very familiar with Windows, Mac, and Linux systems, experience running a
-web server, extremely comfortable with CLI.  
+Experience running a web server, extremely comfortable with CLI.  
+
+Experience with cloud computing.
 
 Familiarity with various bioinformatic resources, including MUSCLE,
 MAFFT, Clustal, genome browsers, SCOP, Uniprot, Pali Database, Dali
 web server, and others.  
 
-Experience writing large software for protein
-analysis, experience working with groups and collaborators on large
+Experience writing large software, alone or working with groups and collaborators on large
 computational projects.  
 
 Protein purification from large tissue samples, use of expanded
