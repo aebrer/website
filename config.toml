@@ -57,11 +57,10 @@ titleSeparator = "•"
 email = "andrew@brereton.me"
 github = "atomoton"
 linkedin = "andrew-brereton-935ba1149"
-mastodon = "atomoton"
 gitlab = "brereton"
 
 [params.social.config]
-platforms = ["github", "gitlab", "mastodon", "email","linkedin"]
+platforms = ["github", "gitlab", "email", "linkedin"]
 
 [[menu.social]]
 name = "gitlab"
