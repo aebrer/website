@@ -22,8 +22,6 @@ Venditti V, Sgourakis N, Tripsianes K. **"Automated NMR resonance assignments
 and structure determination using a minimal set of 4D spectra."** *Nat Commun*.
  (2017). **Accepted for Publication**
 
-"Automated NMR resonance assignments and structure determination using a minimal set of 4D spectra." by Thomas Evangelidis, Santrupti Nerli, Jiri Novacek, Andrew Brereton, Andrew Karplus, Rochelle Dotas, Vincenzo Venditti, Nikolaos Sgourakis, and Kostas Tripsianes [Paper #NCOMMS-17-21213B], 
-
 **Brereton AE**, Karplus PA, **"Ensemblator v3: Robust Atom-level
 Comparative Analyses and Classification of Protein Structure
 Ensembles."** *Protein Sci*. (2017). DOI:
