@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2017-12-09T18:29:00-05:00
+date: 2017-12-30
 menu: ["main", "CV"]
 toc: True
 ---
@@ -16,6 +16,13 @@ structure/design problems.*
 
 Peer-reviewed Publications
 --------------------------
+
+Evangelidis T, Nerli S, Novacek J, **Brereton AE**, Karplus A, Dotas R, 
+Venditti V, Sgourakis N, Tripsianes K. **"Automated NMR resonance assignments 
+and structure determination using a minimal set of 4D spectra."** *Nat Commun*.
+ (2017). **Accepted for Publication**
+
+"Automated NMR resonance assignments and structure determination using a minimal set of 4D spectra." by Thomas Evangelidis, Santrupti Nerli, Jiri Novacek, Andrew Brereton, Andrew Karplus, Rochelle Dotas, Vincenzo Venditti, Nikolaos Sgourakis, and Kostas Tripsianes [Paper #NCOMMS-17-21213B], 
 
 **Brereton AE**, Karplus PA, **"Ensemblator v3: Robust Atom-level
 Comparative Analyses and Classification of Protein Structure
@@ -66,6 +73,11 @@ structure assignments.
 #### [Uncomplicated I Ching](https://play.google.com/store/apps/details?id=me.brereton.iching2)
 
 A minimal android app to enable consulting the I Ching Oracle.
+
+#### [Winnower](https://github.com/atomoton/winnower)
+
+A simplistic deep neural network implementation for automatic swiping on Tinder.
+
 
 Education
 ---------
