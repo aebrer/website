@@ -20,8 +20,8 @@ Peer-reviewed Publications
 Evangelidis T, Nerli S, Novacek J, **Brereton AE**, Karplus A, Dotas R, 
 Venditti V, Sgourakis N, Tripsianes K. **"Automated NMR resonance assignments 
 and structure determination using a minimal set of 4D spectra."** *Nat Commun*.
- (2017). **Accepted for Publication**
-
+ (2018). [10.1038/s41467-017-02592-z](https://www.nature.com/articles/s41467-017-02592-z)
+ 
 **Brereton AE**, Karplus PA, **"Ensemblator v3: Robust Atom-level
 Comparative Analyses and Classification of Protein Structure
 Ensembles."** *Protein Sci*. (2017). DOI:
@@ -229,10 +229,10 @@ Redox Signal* 2016)
 
 Miscellaneous
 -------------
-Fourth Kyu certification in Aikikai Aikido.  
 
 Gold certification as a pharmacy technician.  
 
 Adequate sense of humour.  
 
+Speaks Esperanto  
 
