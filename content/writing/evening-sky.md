@@ -1,6 +1,6 @@
 ---
 title: "Evening Sky"
-tags: ["haiku", "peom"]
+tags: ["haiku", "poem"]
 menu: "writing"
 date: 2016-10-03
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Winter"
-tags: ["peom"]
+tags: ["poem"]
 menu: "writing"
 date: 2016-10-26
 ---
