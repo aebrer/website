@@ -111,7 +111,7 @@ CGRB 2015 Spring Conference **Lightning Talk Award**, Oregon State University, 2
 Professional Experience
 -----------------------
 
-#### Bioinformatics Developer 
+#### Scientist 
 Cyclica Inc., Toronto, ON  
 2017 - Present  
 
