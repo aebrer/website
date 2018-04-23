@@ -59,9 +59,10 @@ email = "andrew@brereton.me"
 github = "atomoton"
 linkedin = "andrew-brereton-935ba1149"
 gitlab = "brereton"
+twitter = "atomoton"
 
 [params.social.config]
-platforms = ["github", "gitlab", "email", "linkedin"]
+platforms = ["github", "gitlab", "email", "linkedin", "twitter"]
 
 [[menu.social]]
 name = "gitlab"
