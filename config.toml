@@ -101,12 +101,6 @@ weight = -80
 identifier = "photography"
 url = "/photography"
 
-[[menu.main]]
-name = "writing"
-weight = -70
-identifier = "writing"
-url = "/writing"
-
 
 
 [languages]
