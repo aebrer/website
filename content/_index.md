@@ -6,5 +6,5 @@ Inc. in Toronto, Ontario. On this website you'll find links to my
 Ensemblator](https://github.com/atomoton/ensemblator)), and my
 [blog](/blog).
 
-I also host a comedy podcast with my two younger siblings, called [HowToAnything](https://www.reddit.com/r/HowToAnything/).
+I also host a comedy podcast with my two younger siblings, called [HowToAnything](https://howtoanything.ca).
 
