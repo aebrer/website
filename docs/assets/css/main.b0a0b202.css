@@ -5,5 +5,9 @@
 
 @font-face{font-family:'aebrer';src:url('https://brereton.me/fonts/aebrer.ttf')}
 nav#main-menu{font-family:'aebrer'}
-h1.site-title{font-family:'aebrer'}
+.title{
+  font-family:'aebrer';
+  text-transform: uppercase
+}
 #about-me{font-family:'aebrer';font-size:2em;}
+.copyright{font-family:'aebrer';}
