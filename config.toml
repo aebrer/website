@@ -24,6 +24,9 @@ pygmentsCodefences = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
+[params.widgets]
+homepage = ["twitter_feed", "recent_posts"]
+
 [params.info]
 description = ""
 title404 = "Nothing's here!"
