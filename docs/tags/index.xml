@@ -5,64 +5,9 @@
     <link>https://brereton.me/tags/</link>
     <description>Recent content in Tags on Andrew E Brereton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://brereton.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Cooking</title>
-      <link>https://brereton.me/tags/cooking/</link>
-      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brereton.me/tags/cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Craft</title>
-      <link>https://brereton.me/tags/craft/</link>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://brereton.me/tags/craft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data science</title>
-      <link>https://brereton.me/tags/data-science/</link>
-      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brereton.me/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>https://brereton.me/tags/science/</link>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://brereton.me/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speculation</title>
-      <link>https://brereton.me/tags/speculation/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brereton.me/tags/speculation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tattoo</title>
-      <link>https://brereton.me/tags/tattoo/</link>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://brereton.me/tags/tattoo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

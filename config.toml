@@ -24,9 +24,6 @@ pygmentsCodefences = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
-[params.widgets]
-homepage = ["twitter_feed", "recent_posts"]
-
 [params.info]
 description = ""
 title404 = "Nothing's here!"
@@ -65,7 +62,7 @@ twitter = "atomoton"
 instagram = "atomoton"
 
 [params.social.config]
-platforms = ["github", "gitlab", "email", "linkedin", "twitter", "instagram"]
+platforms = ["github", "gitlab", "email", "linkedin", "twitter", "instagram", "medium"]
 
 [[menu.social]]
 name = "gitlab"
@@ -78,32 +75,6 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
-
-
-[[menu.main]]
-name = "home"
-weight = -100
-identifier = "home"
-url = "/"
-
-[[menu.main]]
-name = "blog"
-weight = -90
-identifier = "blog"
-url = "/blog"
-
-[[menu.main]]
-name = "tags"
-weight = -85
-identifier = "tags"
-url = "/tags"
-
-[[menu.main]]
-name = "photography"
-weight = -80
-identifier = "photography"
-url = "/photography"
-
 
 
 [languages]

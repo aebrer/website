@@ -47,15 +47,7 @@ ga('send', 'pageview');
       <nav id='main-menu' class='menu main-menu' aria-label='Main Menu'>
   <div class='container'>
     
-    <ul><li class='item current'>
-        <a aria-current='page' href='/'>home</a>
-      </li><li class='item'>
-        <a href='/blog'>blog</a>
-      </li><li class='item'>
-        <a href='/tags'>tags</a>
-      </li><li class='item'>
-        <a href='/photography'>photography</a>
-      </li></ul>
+    <ul></ul>
   </div>
 </nav>
 
@@ -82,81 +74,29 @@ ga('send', 'pageview');
 <p>Hello! I am a scientist and developer currently working at Cyclica,
 Inc. in Toronto, Ontario.</p>
 
-</div>
+<p><h4 id="recents-widget">
+      Recent Articles:
+  </h4></p>
 
-</div>
-<div class='home-widgets'>
-  <div class='container sep-before'><section class='widget widget-twitter_feed sep-after'>
-  <header>
-    <h4 id="twitter-widget">
+<section>
+<div id="medium-widget"></div>
+    <script src="/assets/js/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@atomoton","postsPerLine":1,"limit":3,"picture":"none","fields":["description","author","claps","publishAt"],"ratio":"original"}})</script>
+</section>
+
+<p><header>
+  <h4 id="twitter-widget">
       Recent Tweets:
-    </h4>
-  </header>
+  </h4>
+</header>
+<section>
   <a class="twitter-timeline" data-height="400" data-dnt="true" data-tweet-limit="3" data-chrome="nofooter noheader noborders transparent" href="https://twitter.com/atomoton?ref_src=twsrc%5Etfw"> Tweets by atomoton </a> <script src="/assets/js/twitter.js" charset="utf-8" content-type="application/javascript"> </script>
-</section>
+</section></p>
 
-
-<section class='widget widget-recent_posts sep-after'>
-  <header>
-    <h4 id = "recents-widget">
-        Recent Blog Posts:
-    </h4>
-  </header>
-
-  <ul class='list'>
-  
-    <li class='item'>
-  <div class='meta'>
-    <span>
-  <span class='screen-reader-text'>Posted on </span>
-  <time datetime='2017-12-16T00:00:00Z'>2017, Dec 16</time>
-</span>
-
-  </div>
-  <header class='item-header'>
-    <h3 class='item-title'>
-      <a href='/photography/buildings/'>Buildings</a>
-    </h3>
-  </header>
-</li>
-
-  
-    <li class='item'>
-  <div class='meta'>
-    <span>
-  <span class='screen-reader-text'>Posted on </span>
-  <time datetime='2017-06-08T00:00:00Z'>2017, Jun 08</time>
-</span>
-
-  </div>
-  <header class='item-header'>
-    <h3 class='item-title'>
-      <a href='/blog/tattoo/'>Designing a Tattoo Using Neural Networks</a>
-    </h3>
-  </header>
-</li>
-
-  
-    <li class='item'>
-  <div class='meta'>
-    <span>
-  <span class='screen-reader-text'>Posted on </span>
-  <time datetime='2016-10-27T00:00:00Z'>2016, Oct 27</time>
-</span>
-
-  </div>
-  <header class='item-header'>
-    <h3 class='item-title'>
-      <a href='/blog/mutants/'>Mutants Among Us: the unexpected effects of a mutation in AMPD1</a>
-    </h3>
-  </header>
-</li>
-
-  
-  </ul>
-</section>
 </div>
-</div>      </main>
+
+</div>
+      </main>
 
       <footer id='footer' class='footer'>
         <div class='container sep-before'>
