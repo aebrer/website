@@ -1,4 +1,4 @@
-![image](images/small.png)
+![image](images/self.png)
 #### About Me
 Hello! I am a scientist and developer currently working at Cyclica,
 Inc. in Toronto, Ontario. I like:
