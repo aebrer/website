@@ -1,7 +1,15 @@
 ![image](images/self-mountain-small.png)
 #### About Me
 Hello! I am a scientist and developer currently working at Cyclica,
-Inc. in Toronto, Ontario. 
+Inc. in Toronto, Ontario. I like:
+
+* programming
+* video games (my Mario Maker id is 1GR-FH5-VGG)
+* neuroscience, biophysics, sleep science, and the protein folding 'problem'
+* science fiction / speculative fiction
+* rock climbing and slack lining
+
+I'm normally pretty approachable so don't hesitate to drop a line!
 
 
   <h4 id="recents-widget">
