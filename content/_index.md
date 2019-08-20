@@ -16,11 +16,7 @@ I'm normally pretty approachable so don't hesitate to drop a line!
       Recent Articles:
   </h4>
 
-<section>
-<div id="medium-widget"></div>
-    <script src="/assets/js/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@atomoton","postsPerLine":1,"limit":3,"picture":"none","fields":["description","author","claps","publishAt"],"ratio":"original"}})</script>
-</section>
+<div id="retainable-rss-embed" data-rss="https://medium.com/feed/@atomoton" data-maxcols="2" data-layout="slider" data-poststyle="external" data-readmore=" " data-buttonclass="btn btn-primary" data-offset="-100"></div>
 
 <header>
   <h4 id="twitter-widget">
@@ -30,3 +26,5 @@ I'm normally pretty approachable so don't hesitate to drop a line!
 <section>
   <a class="twitter-timeline" data-height="400" data-dnt="true" data-tweet-limit="3" data-chrome="nofooter noheader noborders transparent" href="https://twitter.com/atomoton?ref_src=twsrc%5Etfw"> Tweets by atomoton </a> <script src="/assets/js/twitter.js" charset="utf-8" content-type="application/javascript"> </script>
 </section>
+
+<script src="/assets/js/retain.js"></script>
