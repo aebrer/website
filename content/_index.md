@@ -27,4 +27,10 @@ I'm normally pretty approachable so don't hesitate to drop a line!
   <a class="twitter-timeline" data-height="400" data-dnt="true" data-tweet-limit="3" data-chrome="nofooter noheader noborders transparent" href="https://twitter.com/atomoton?ref_src=twsrc%5Etfw"> Tweets by atomoton </a> <script src="/assets/js/twitter.js" charset="utf-8" content-type="application/javascript"> </script>
 </section>
 
+
 <script src="/assets/js/retain.js"></script>
+
+<div class="bc-comment">
+<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="MjsfhxAl" data-limit="5" data-dislikes="1" data-outlined="1"></script>
+</div>
+
